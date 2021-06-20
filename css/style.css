@@ -1,0 +1,47 @@
+h2{
+	color: #1768ac;
+}
+h4{
+	color: #5e8b7e;
+}
+header{
+	background: #deedf0;
+}
+main{
+	background: #a7c4bc;
+}
+article{
+	background: #fff5eb;
+}
+section{
+	background: #232323;
+}
+aside{
+	background: #03256c;
+	float: right;
+	width: 300px;
+	display: block;
+
+}
+footer p{
+	background: #cee5d0;
+	padding: 5px;
+	text-align: center;
+}
+table,tr,th,td{
+	border: 1px solid black;
+}
+h1{
+	background: #bf1363;
+	width: 250px;
+	color: #13144c;
+}
+.div{
+	color:  green;
+
+}
+.heading4{
+	color: red;
+	border: 3px solid blue;
+	width: 400px;
+}
